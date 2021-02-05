@@ -1,0 +1,23 @@
+body {
+	background-color: #02382e;
+	color: #ffffff;
+}
+
+#mainbag {
+  background: transparent url('../images/gradient.png') top left repeat-x;
+}
+
+#content {
+  background: transparent url('../images/cl.jpg') top left no-repeat;
+}
+
+#signupform #email {
+	color: #928ea5;
+	background-color: transparent;
+	border: 0;
+}
+
+#signupform #submitbutton {
+  background: transparent url('../images/signup.png') top left no-repeat;
+  border: 0;
+}

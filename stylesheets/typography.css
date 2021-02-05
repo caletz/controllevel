@@ -1,0 +1,17 @@
+body {
+	font-size: 62.5%; /* Resets 1em to 10px */
+	font-family: Helvetica, 'Nimbus Sans', Arial, Sans-Serif;
+}
+
+#signupform #email {
+	font-size: 15px;
+	font-weight: normal;
+}
+
+#designed,
+#signupform #submitbutton {
+	text-indent: -9999px;
+	font-size: 0px;
+	line-height: 0px;
+	color: #182D3D;
+}

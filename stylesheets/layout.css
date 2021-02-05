@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bag {
+  width: 100%;
+}
+
+#content {
+  width: 1030px;
+  height: 768px;
+  position: relative;
+}
+
+#signupform {
+	position: absolute;
+	left: 348px;
+	top: 609px;
+	width: 95px;
+}
+
+#signupform #email {
+	position: absolute;
+	left: -63px;
+	top: -176px;
+}
+
+#signupform #submitbutton {
+	display: block;
+	position: absolute;
+	left: 85px;
+	top: -47px;
+	width: 152px;
+	height: 29px;
+}
+
+#designed {
+  display: block;
+  position: absolute;
+  right: 33px;
+  bottom: 12px;
+  width: 100px;
+  height: 16px;
+}
